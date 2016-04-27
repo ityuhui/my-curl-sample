@@ -1,2 +1,5 @@
-main
+mycurlsample.*
+.vs/
+x64/
+*.dll
 *.o
