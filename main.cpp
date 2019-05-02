@@ -1,6 +1,7 @@
 #include <iostream>
 #include <curl/curl.h>
 #include <string>
+#include <cstring>
 #include <clocale>
 
 const int MAXLENGTH = 2048;

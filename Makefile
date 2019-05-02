@@ -1,5 +1,5 @@
-main:main.o
-	gcc -o main main.o -lstdc++ -lcurl
+mycurlsample:main.o
+	gcc -o mycurlsample main.o -lstdc++ -lcurl
 main.o:main.cpp
 	gcc -c main.cpp
 clean:
